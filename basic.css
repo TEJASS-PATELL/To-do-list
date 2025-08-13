@@ -41,7 +41,7 @@ body {
 #input-box {
     flex: 1;
     padding: 17px 18px;
-    border: 2px solid rgb(215, 215, 215);
+    border: 2px solid rgb(225, 225, 225);
     border-radius: 12px 0 0 12px;
     font-size: 1.15rem;
     outline: none;
@@ -51,10 +51,10 @@ body {
 
 #button {
     padding: 12px 30px;
-    border: none;
     border-radius: 0 12px 12px 0;
     background: #00d0ff;
     color: #000000;
+    border: none;
     font-size: 1.15rem;
     font-weight: bold;
     cursor: pointer;
